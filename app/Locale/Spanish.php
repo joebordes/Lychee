@@ -411,6 +411,10 @@ final class Spanish implements Language
 			'NSFW_VISIBLE_TEXT_2' => 'If the album is public, it is still accessible, just hidden from the view and <b>can be revealed by pressing <hkb>H</hkb></b>.',
 			'SETTINGS_SUCCESS_NSFW_VISIBLE' => 'Default sensitive album visibility updated with success.',
 
+			'NSFW_BANNER_HEADER' => 'Sensitive content',
+			'NSFW_BANNER_EXPL' => 'This album contains sensitive content which some people may find offensive or disturbing.',
+			'NSFW_BANNER_CONSENT_TAP' => 'Tap to consent.',
+
 			'VIEW_NO_RESULT' => 'No hay resultados',
 			'VIEW_NO_PUBLIC_ALBUMS' => 'Sin álbumes públicos',
 			'VIEW_NO_CONFIGURATION' => 'Sin configuración',
